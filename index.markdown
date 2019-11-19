@@ -11,7 +11,7 @@ layout: default
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 [GitHub Link](https://github.com/jake-small/spin "jake-small/spin")
 
-Spin the Green Circle is a short 2D Unity game built for the web. This is based on an old flash game I used to play and I wanted to try my own take on it but for the modern web. I picked Unity and WebGL because I enjoy C# and was curious about Unity's 2D engine. The project is setup in a way in which levels can quickly and easily be added. If you would like to add your own levels, pull the code from github, open in Unity, and duplicate the Basic Scene found in the templates directory. From there you can copy and paste the various pieces where you want them, and don't worry, all of the logic is built in already. In the future I plan to add more levels and group them by difficutly.
+Spin the Green Circle is a short, 2D Unity game built for web. It is based on an old flash game I used to play and I wanted to make my own version for the modern web. I picked Unity and WebGL because I enjoy C# and was curious about Unity's 2D engine. The project is setup in a way in which levels can quickly and easily be added. If you would like to add your own levels, pull the code from github, open in Unity, and duplicate the Basic Scene found in the templates directory. From there you can copy and paste the various pieces where you want them, and don't worry, all of the logic is built in already. In the future I plan to add more levels and group them by difficutly.
 
 <br />
 
