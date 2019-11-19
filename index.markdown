@@ -7,7 +7,7 @@ layout: default
 ## Spin the Green Circle
 ![](/assets/img/SpinTheGreenCircle.png)
 
-[Live Demo](http://www.spinthegreencircle.com "www.spinthegreencircle.com")
+[Live Demo](https://www.spinthegreencircle.com "www.spinthegreencircle.com")
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 [GitHub Link](https://github.com/jake-small/spin "jake-small/spin")
 
@@ -16,7 +16,7 @@ Spin the Green Circle is a short 2D Unity game built for the web. This is based 
 <br />
 
 ## Rock Paper Scissors AI
-![](http://placekitten.com/400/250)
+![](https://placekitten.com/400/250)
 
 [Live Demo](https://github.com/jake-small/ "www.rockpaperscissors.ninja")
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 ## Chaos Game
-![](http://placekitten.com/400/200)
+![](https://placekitten.com/400/200)
 
 [Live Demo](https://github.com/jake-small/ "www.rockpaperscissors.ninja")
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
@@ -38,7 +38,7 @@ Mi tempus imperdiet nulla malesuada pellentesque elit eget gravida. Vestibulum m
 <br />
 
 ## Mist Android App
-![](http://placekitten.com/500/220)
+![](https://placekitten.com/500/220)
 
 [Live Demo](https://github.com/jake-small/ "www.rockpaperscissors.ninja")
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
@@ -49,7 +49,7 @@ Nec feugiat in fermentum posuere urna nec tincidunt. Ultrices vitae auctor eu au
 <br />
 
 ## 3d Printed Case for an Arduino Project
-![](http://placekitten.com/500/260)
+![](https://placekitten.com/500/260)
 
 [Thingiverse Link](https://www.thingiverse.com/yetiFox/ "yetiFox")
 
