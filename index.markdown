@@ -4,6 +4,17 @@ layout: default
 
 # Projects
 
+## Rock Paper Scissors AI
+![](/assets/img/rpsNinja.png)
+
+[Live Demo](https://www.rockpaperscissors.ninja "www.rockpaperscissors.ninja")
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+[GitHub Link](https://github.com/jake-small/rps-ninja "jake-small/rps")
+
+This rock paper scissors bot is my go to project when learning a new language. In this case it's built with javascript ES6 using React with the help of [create-react-app](https://github.com/facebook/create-react-app). The bot creates a [Markov Chain](https://deepai.org/machine-learning-glossary-and-terms/markov-chain) as it plays in order to predict what it thinks the opponent will play next. For example, the most basic version of the bot makes its decision like this: given that the opponent played Rock last turn, and that they usually play Scissors after Rock, I will choose Rock next game. The bot currently used by this site is a slightly more advanced version of that. If you're interested in how it works, check out the bots folder in the repository [here](https://github.com/jake-small/rps-ninja/tree/master/src/services/bots). Going forward I want to provide the ability for users to select which bots to play against and to select which rule set to use ([Rock Paper Scissors Lizard Spock](http://www.samkass.com/theories/RPSSL.html) for instance). In addition I'd like to include an explanation section with a visualization of the current state of the Markov Chain.
+
+<br />
+
 ## Spin the Green Circle
 ![](/assets/img/SpinTheGreenCircle.png)
 
@@ -12,17 +23,6 @@ layout: default
 [GitHub Link](https://github.com/jake-small/spin "jake-small/spin")
 
 Spin the Green Circle is a short, 2D Unity game built for web. It is based on an old flash game I used to play and I wanted to make my own version for the modern web. I picked Unity and WebGL because I enjoy C# and was curious about Unity's 2D engine. The project is setup in a way in which levels can quickly and easily be added. If you would like to add your own levels, pull the code from github, open in Unity, and duplicate the Basic Scene found in the templates directory. From there you can copy and paste the various pieces where you want them, and don't worry, all of the logic is already built in. In the future I plan to add more levels and group them by difficutly.
-
-<br />
-
-## Rock Paper Scissors AI
-![](https://placekitten.com/400/250)
-
-[Live Demo](https://github.com/jake-small/ "www.rockpaperscissors.ninja")
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-[GitHub Link](https://github.com/jake-small/ "jake-small/rps")
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Volutpat maecenas volutpat blandit aliquam. Mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a. Metus aliquam eleifend mi in nulla posuere. Tellus cras adipiscing enim eu turpis egestas pretium. Nulla aliquet porttitor lacus luctus. Tristique nulla aliquet enim tortor. Enim nec dui nunc mattis enim. Tristique magna sit amet purus gravida. Lectus nulla at volutpat diam. Lobortis elementum nibh tellus molestie nunc non blandit massa. Enim facilisis gravida neque convallis a cras semper auctor. Viverra orci sagittis eu volutpat odio facilisis. Dignissim convallis aenean et tortor at risus viverra. Molestie a iaculis at erat pellentesque adipiscing commodo elit at. Bibendum est ultricies integer quis. Amet consectetur adipiscing elit pellentesque. Sollicitudin aliquam ultrices sagittis orci.
 
 <br />
 
