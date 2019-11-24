@@ -1,5 +1,5 @@
 # jake-small.github.io
-Personal GitHub Pages site hosted at [https://www.jakesmall.net]
+Personal GitHub Pages site hosted at [jakesmall.net](https://www.jakesmall.net)
 
 ### `bundle exec jekyll serve`
 Builds the site and makes it available on a local server.<br>
