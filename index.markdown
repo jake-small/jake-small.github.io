@@ -11,7 +11,7 @@ layout: default
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 [GitHub Link](https://github.com/jake-small/rps-ninja "jake-small/rps")
 
-This rock paper scissors bot is my go to project when learning a new language. In this case it's built with javascript ES6 using React with the help of [create-react-app](https://github.com/facebook/create-react-app). The bot creates a [Markov Chain](https://deepai.org/machine-learning-glossary-and-terms/markov-chain) as it plays in order to predict what it thinks the opponent will play next. For example, the most basic version of the bot makes its decision like this: given that the opponent played Rock last turn, and that they usually play Scissors after Rock, I will choose Rock next game. The bot currently used by this site is a slightly more advanced version of that. If you're interested in how it works, check out the bots folder in the repository [here](https://github.com/jake-small/rps-ninja/tree/master/src/services/bots). Going forward I want to provide the ability for users to select which bots to play against and to select which rule set to use ([Rock Paper Scissors Lizard Spock](http://www.samkass.com/theories/RPSSL.html) for instance). In addition I'd like to include an explanation section with a visualization of the current state of the Markov Chain.
+This rock paper scissors bot is my go to project when learning a new language. In this case it's built with javascript ES6 using React with the help of [create-react-app](https://github.com/facebook/create-react-app). The bot creates a [Markov Chain](https://deepai.org/machine-learning-glossary-and-terms/markov-chain) as it plays in order to predict what it thinks the opponent will play next. For example, the most basic version of the bot makes its decision like this: given that the opponent played Rock last turn, and that they usually play Scissors after Rock, I will choose Rock next game. The bot currently used by this site is a slightly more advanced version of that. If you're interested in how it works, check out the bots folder in the repository [here](https://github.com/jake-small/rps-ninja/tree/master/src/services/bots). Going forward I want to provide the ability for users to select which bots to play against and to select which rule set to use ([Rock Paper Scissors Lizard Spock](http://www.samkass.com/theories/RPSSL.html) for instance). In addition, I'd like to include an explanation section with a visualization of the current state of the Markov Chain.
 
 <br />
 
@@ -26,31 +26,21 @@ Spin the Green Circle is a short, 2D Unity game built for web. It is based on an
 
 <br />
 
-## Chaos Game
-![](https://placekitten.com/400/200)
-
-[Live Demo](https://github.com/jake-small/ "www.rockpaperscissors.ninja")
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-[GitHub Link](https://github.com/jake-small/ "jake-small/rps")
-
-Mi tempus imperdiet nulla malesuada pellentesque elit eget gravida. Vestibulum morbi blandit cursus risus at ultrices mi tempus imperdiet. Quisque non tellus orci ac auctor augue mauris augue neque. Condimentum lacinia quis vel eros. Urna neque viverra justo nec ultrices dui. Dui vivamus arcu felis bibendum. Ac turpis egestas maecenas pharetra convallis posuere morbi. Elementum sagittis vitae et leo duis ut diam quam nulla. Gravida quis blandit turpis cursus in hac. Cras pulvinar mattis nunc sed blandit libero. Tortor at risus viverra adipiscing. Nunc faucibus a pellentesque sit amet porttitor eget dolor. Scelerisque eleifend donec pretium vulputate sapien.
-
-<br />
-
 ## Mist Android App
-![](https://placekitten.com/500/220)
+<img src="/assets/img/mist_1200x1200.png" width="300" />
 
-[Live Demo](https://github.com/jake-small/ "www.rockpaperscissors.ninja")
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-[GitHub Link](https://github.com/jake-small/ "jake-small/rps")
+<a href="/assets/pdf/mist_brochure.pdf">App Fair Brochure PDF</a>
 
-Nec feugiat in fermentum posuere urna nec tincidunt. Ultrices vitae auctor eu augue ut lectus arcu. Libero justo laoreet sit amet cursus sit amet dictum. Tristique senectus et netus et malesuada fames. Vivamus arcu felis bibendum ut tristique et egestas quis ipsum. Morbi enim nunc faucibus a pellentesque sit. Tellus molestie nunc non blandit massa enim. Rutrum tellus pellentesque eu tincidunt tortor aliquam. Pellentesque sit amet porttitor eget dolor. Quis lectus nulla at volutpat diam ut. In est ante in nibh mauris cursus mattis molestie. Et malesuada fames ac turpis egestas maecenas pharetra. Cursus mattis molestie a iaculis at erat pellentesque.
+Mist is an Android app made for a project in college back in 2015. It was designed to make finding movies easy. The name comes from combining the words Movie and List as the purporse of the app is to create lists of movies. Once you have some lists you can use the selector to pick a movie using some filter options. The main strength of the app is the social aspect. Friends generally share the same movie interests so, leveraging that, Mist lets users select movies from lists their friends made. For more info check out the trifold brochure that I made for my school's mobile app fair. I ended up winning ["Best in Show](/assets/img/BestInShow.jpg "awkward pic")! There are many improvements I would make if I revisited this project, starting with the UI. I need to give credit to [TheMovieDB](https://www.themoviedb.org/documentation/api?language=en-US) which supplied all of the movie info and pictures and I want to thank my brother Jimmy for creating the awesome logo!
 
 <br />
 
 ## 3d Printed Case for an Arduino Project
-![](https://placekitten.com/500/260)
+![](/assets/img/enhancedTrainingModeCase.jpg)
 
-[Thingiverse Link](https://www.thingiverse.com/yetiFox/ "yetiFox")
+[Thingiverse Link](https://www.thingiverse.com/thing:3999596 "Enhanced Training Mode Case")
 
-Tortor id aliquet lectus proin nibh nisl condimentum id. Morbi quis commodo odio aenean sed. Sed adipiscing diam donec adipiscing tristique. Nulla aliquet porttitor lacus luctus accumsan tortor posuere ac ut. Viverra mauris in aliquam sem fringilla ut morbi tincidunt. Convallis a cras semper auctor. Egestas integer eget aliquet nibh praesent tristique magna sit. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Blandit turpis cursus in hac habitasse platea dictumst quisque. Eget nullam non nisi est sit. Urna cursus eget nunc scelerisque viverra mauris in aliquam. Ornare massa eget egestas purus viverra. Mus mauris vitae ultricies leo integer malesuada nunc. Accumsan lacus vel facilisis volutpat est velit egestas dui id. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Nibh mauris cursus mattis molestie a iaculis at.
+This is a case made to house an Arduino running [Linyoa's Enhanced Training Mode](https://github.com/Linyoa/Enhanced-Training-Mode). This mod improves the training dummy in Super Smash Bros Ultimate. Think of it like a ball machine in tennis. At the time, there was only one model for a case like this but it required you to feed the wire through before soldering. I wanted a case that would let me remove the Arduino easily so I created this version.
+
+
+<!-- Potential Future Additions: Arduino Chessboard, Chaos Game, Debris Game -->
