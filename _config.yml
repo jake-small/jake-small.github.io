@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
   <p class="view"><a href="./resume">Resume</a></p>
   <p class="view"><a href="https://github.com/jake-small/">GitHub</a></p>
-  <p class="view"><a href="https://www.thingiverse.com/yetiFox/">Thingiverse</a></p>
+  <p class="view"><a href="https://www.thingiverse.com/yetiFox/designs">Thingiverse</a></p>
 
 # Build settings
 theme: jekyll-theme-minimal
