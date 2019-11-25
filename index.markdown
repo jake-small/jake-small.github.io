@@ -22,16 +22,7 @@ This rock paper scissors bot is my go to project when learning a new language. I
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 [GitHub Link](https://github.com/jake-small/spin "jake-small/spin")
 
-Spin the Green Circle is a short, 2D Unity game built for web. It is based on an old flash game I used to play and I wanted to make my own version for the modern web. I picked Unity and WebGL because I enjoy C# and was curious about Unity's 2D engine. The project is setup in a way in which levels can quickly and easily be added. If you would like to add your own levels, pull the code from github, open in Unity, and duplicate the Basic Scene found in the templates directory. From there you can copy and paste the various pieces where you want them, and don't worry, all of the logic is already built in. In the future I plan to add more levels and group them by difficutly.
-
-<br />
-
-## Mist Android App
-<img src="/assets/img/mist_1200x1200.png" width="300" />
-
-<a href="/assets/pdf/mist_brochure.pdf">App Fair Brochure PDF</a>
-
-Mist is an Android app made for a project in college back in 2015. It was designed to make finding movies easy. The name comes from combining the words Movie and List as the purporse of the app is to create lists of movies. Once you have some lists you can use the selector to pick a movie using some filter options. The main strength of the app is the social aspect. Friends generally share the same movie interests so, leveraging that, Mist lets users select movies from lists their friends made. For more info check out the trifold brochure that I made for my school's mobile app fair. I ended up winning ["Best in Show](/assets/img/BestInShow.jpg "awkward pic")! There are many improvements I would make if I revisited this project, starting with the UI. I need to give credit to [TheMovieDB](https://www.themoviedb.org/documentation/api?language=en-US) which supplied all of the movie info and pictures and I want to thank my brother Jimmy for creating the awesome logo!
+Spin the Green Circle is a short, 2D Unity game built for web. It is based on an old flash game I used to play and I wanted to make my own version for the modern web. I picked Unity and WebGL because I enjoy C# and was curious about Unity's 2D engine. The project is setup in a way in which levels can quickly and easily be added. If you would like to add your own levels, pull the code from github, open in Unity, and duplicate the Basic Scene found in the templates directory. From there you can copy and paste the various pieces where you want them, and don't worry, all of the logic is already built in. In the future I plan to add more levels grouped by difficulty and improve the color scheme.
 
 <br />
 
@@ -41,6 +32,15 @@ Mist is an Android app made for a project in college back in 2015. It was design
 [Thingiverse Link](https://www.thingiverse.com/thing:3999596 "Enhanced Training Mode Case")
 
 This is a case made to house an Arduino running [Linyoa's Enhanced Training Mode](https://github.com/Linyoa/Enhanced-Training-Mode). This mod improves the training dummy in Super Smash Bros Ultimate. Think of it like a ball machine in tennis. At the time, there was only one model for a case like this but it required you to feed the wire through before soldering. I wanted a case that would let me remove the Arduino easily so I created this version.
+
+<br />
+
+## Mist Android App
+<img src="/assets/img/mist_1200x1200.png" width="300" />
+
+<a href="/assets/pdf/mist_brochure.pdf">App Fair Brochure PDF</a>
+
+Mist is an Android app made for a project in college back in 2015. It was designed to make finding movies easy. The name comes from combining the words Movie and List as the purporse of the app is to create lists of movies. Once you have some lists you can use the selector to pick a movie using some filter options. The main strength of the app is the social aspect. Friends generally share the same movie interests so, leveraging that, Mist lets users select movies from lists their friends made. For more info check out the trifold brochure that I made for my school's mobile app fair. I ended up winning ["Best in Show](/assets/img/BestInShow.jpg "awkward pic")! There are many improvements I would make if I revisited this project, starting with the UI. I need to give credit to [TheMovieDB](https://www.themoviedb.org/documentation/api?language=en-US) which supplied all of the movie info and pictures and I want to thank my brother Jimmy for creating the awesome logo!
 
 
 <!-- Potential Future Additions: Arduino Chessboard, Chaos Game, Debris Game -->
