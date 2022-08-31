@@ -8,6 +8,8 @@ layout: default
 ![](/assets/img/fantasy_auto_racer_title_image.PNG)
 
 [Live Demo](https://www.fantasyautoracer.com/ "www.fantasyautoracer.com")
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+[GitHub Link](https://github.com/jake-small/auto-racer-code-only "jake-small/auto-racer-code-only")
 
 Fantasy Auto Racer is an auto battler, a niche genre with elements of traditional deck builders. Instead of battling, this game re-imagines the genre as a series of races. It's split into two phases. The first phase is spent buying items to improve your character, and the second phase is where you watch your character race. Repeat these phases and continually improve your character until the game is over. How many 1st place finishes can you rack up?
 
