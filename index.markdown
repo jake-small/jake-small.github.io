@@ -19,7 +19,7 @@ All item data is stored in json and support Lua functions. This lets me easily m
 
 Project management was done in [Trello](https://trello.com). The best advice I could give to other game developers is to take project management seriously. Spending time curating a backlog and tracking tasks was the biggest reason why I was able to get this game to a finished state.
 
-- Made with the game engine [Godot](https://godotengine.org/)
+- Made with the game engine [Godot 3.4.4](https://godotengine.org/)
 - Multiplayer uses Google's [Firebase](https://firebase.google.com/) via the [Godot Firebase SDK](https://github.com/GodotNuts/GodotFirebase)
 - Scripting uses [Lua](https://www.lua.org/) and is interpreted with [MoonSharp](https://www.moonsharp.org/)
 - Written primarily in C# with some GDScript
